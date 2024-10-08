@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Bibliotheken"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Shoporganizer4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
